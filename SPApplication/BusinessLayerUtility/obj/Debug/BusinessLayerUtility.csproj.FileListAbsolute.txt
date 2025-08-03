@@ -166,3 +166,12 @@ D:\BitBucketProjects\Malas OEE\SPApplication\BusinessLayerUtility\obj\Debug\Busi
 D:\BitBucketProjects\Malas OEE\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.GenerateResource.Cache
 D:\BitBucketProjects\Malas OEE\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
 D:\BitBucketProjects\Malas OEE\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
+D:\GitProjects\Malas-OEE\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+D:\GitProjects\Malas-OEE\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+D:\GitProjects\Malas-OEE\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.dll
+D:\GitProjects\Malas-OEE\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.xml
+D:\GitProjects\Malas-OEE\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csprojResolveAssemblyReference.cache
+D:\GitProjects\Malas-OEE\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.BusinessResources.resources
+D:\GitProjects\Malas-OEE\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.GenerateResource.Cache
+D:\GitProjects\Malas-OEE\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+D:\GitProjects\Malas-OEE\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
