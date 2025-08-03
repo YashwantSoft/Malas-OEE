@@ -1,0 +1,497 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="packages\Microsoft.SqlServer.Types.160.1000.6\build\net462\Microsoft.SqlServer.Types.props" Condition="Exists('packages\Microsoft.SqlServer.Types.160.1000.6\build\net462\Microsoft.SqlServer.Types.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{745646EB-B7BA-41D8-AF67-03933C3589FD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SPApplication</RootNamespace>
+    <AssemblyName>SPApplication</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EPPlus, Version=7.2.1.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1, processorArchitecture=MSIL">
+      <HintPath>packages\EPPlus.7.2.1\lib\net35\EPPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus.Interfaces, Version=6.1.1.0, Culture=neutral, PublicKeyToken=a694d7f3b0907a61, processorArchitecture=MSIL">
+      <HintPath>packages\EPPlus.Interfaces.6.1.1\lib\net35\EPPlus.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus.System.Drawing, Version=6.1.1.0, Culture=neutral, PublicKeyToken=2308d35469c9bac0, processorArchitecture=MSIL">
+      <HintPath>packages\EPPlus.System.Drawing.6.1.1\lib\net35\EPPlus.System.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IO.RecyclableMemoryStream, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.IO.RecyclableMemoryStream.3.0.0\lib\netstandard2.0\Microsoft.IO.RecyclableMemoryStream.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Reporting.WinForms.v11.1.0.0.0\lib\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportViewer.Runtime.Common.12.0.2402.15\lib\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Reporting.WinForms.v11.1.0.0.0\lib\Microsoft.ReportViewer.ProcessingObjectModel.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Reporting.WinForms.v11.1.0.0.0\lib\Microsoft.ReportViewer.WinForms.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Reporting.WinForms.v11.1.0.0.0\lib\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="office, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Annotations, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.ComponentModel.Annotations.5.0.0\lib\net461\System.ComponentModel.Annotations.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.CompilerServices.Unsafe.4.5.3\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Authentication\ChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authentication\ChangePassword.designer.cs">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Authentication\LoginWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authentication\LoginWindow.designer.cs">
+      <DependentUpon>LoginWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Authentication\UpdateWizard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authentication\UpdateWizard.Designer.cs">
+      <DependentUpon>UpdateWizard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Authentication\UserRights.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authentication\UserRights.Designer.cs">
+      <DependentUpon>UserRights.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Authentication\Users.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authentication\Users.Designer.cs">
+      <DependentUpon>Users.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListForms\DataBackup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListForms\DataBackup.Designer.cs">
+      <DependentUpon>DataBackup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListForms\SettingsList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListForms\SettingsList.designer.cs">
+      <DependentUpon>SettingsList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\DepartmentMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\DepartmentMaster.designer.cs">
+      <DependentUpon>DepartmentMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\DesignationMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\DesignationMaster.designer.cs">
+      <DependentUpon>DesignationMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\FinancialYearMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\FinancialYearMaster.Designer.cs">
+      <DependentUpon>FinancialYearMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\HolidayMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\HolidayMaster.Designer.cs">
+      <DependentUpon>HolidayMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\LocationDepartmentWiseUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\LocationDepartmentWiseUsers.designer.cs">
+      <DependentUpon>LocationDepartmentWiseUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\LocationMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\LocationMaster.designer.cs">
+      <DependentUpon>LocationMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\LocationWiseDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\LocationWiseDepartment.Designer.cs">
+      <DependentUpon>LocationWiseDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Authentication\UserWiseLocation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authentication\UserWiseLocation.Designer.cs">
+      <DependentUpon>UserWiseLocation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Calculations\Maintenance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calculations\Maintenance.Designer.cs">
+      <DependentUpon>Maintenance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Calculations\Forecast.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calculations\Forecast.Designer.cs">
+      <DependentUpon>Forecast.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Calculations\ImportForecast.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calculations\ImportForecast.Designer.cs">
+      <DependentUpon>ImportForecast.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Calculations\ImportPlanning.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calculations\ImportPlanning.Designer.cs">
+      <DependentUpon>ImportPlanning.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Calculations\Planning.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calculations\Planning.Designer.cs">
+      <DependentUpon>Planning.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Calculations\DataEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calculations\DataEntry.Designer.cs">
+      <DependentUpon>DataEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\CategoryMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\CategoryMaster.Designer.cs">
+      <DependentUpon>CategoryMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\EmployeeMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\EmployeeMaster.Designer.cs">
+      <DependentUpon>EmployeeMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\ImportShiftSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\ImportShiftSchedule.Designer.cs">
+      <DependentUpon>ImportShiftSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\MachineMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\MachineMaster.Designer.cs">
+      <DependentUpon>MachineMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\ProductMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\ProductMaster.Designer.cs">
+      <DependentUpon>ProductMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\ShiftScheduleMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\ShiftScheduleMaster.Designer.cs">
+      <DependentUpon>ShiftScheduleMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\TestingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\TestingForm.Designer.cs">
+      <DependentUpon>TestingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\BreakdownReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\BreakdownReport.Designer.cs">
+      <DependentUpon>BreakdownReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\DatewiseReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\DatewiseReport.Designer.cs">
+      <DependentUpon>DatewiseReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\DaywiseReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\DaywiseReport.Designer.cs">
+      <DependentUpon>DaywiseReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\ProductPerformanceReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\ProductPerformanceReport.Designer.cs">
+      <DependentUpon>ProductPerformanceReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\RDLCReports\DataEntryDS.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataEntryDS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\OpertationSummaryReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\OpertationSummaryReport.Designer.cs">
+      <DependentUpon>OpertationSummaryReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\ReportRDLC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\ReportRDLC.Designer.cs">
+      <DependentUpon>ReportRDLC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\ViewProduction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\ViewProduction.Designer.cs">
+      <DependentUpon>ViewProduction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Views\Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Dashboard.Designer.cs">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\TestDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\TestDB.Designer.cs">
+      <DependentUpon>TestDB.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Authentication\ChangePassword.resx">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Authentication\LoginWindow.resx">
+      <DependentUpon>LoginWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Authentication\UpdateWizard.resx">
+      <DependentUpon>UpdateWizard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Authentication\UserRights.resx">
+      <DependentUpon>UserRights.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Authentication\Users.resx">
+      <DependentUpon>Users.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListForms\DataBackup.resx">
+      <DependentUpon>DataBackup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListForms\SettingsList.resx">
+      <DependentUpon>SettingsList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\DepartmentMaster.resx">
+      <DependentUpon>DepartmentMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\DesignationMaster.resx">
+      <DependentUpon>DesignationMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\FinancialYearMaster.resx">
+      <DependentUpon>FinancialYearMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\HolidayMaster.resx">
+      <DependentUpon>HolidayMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\LocationDepartmentWiseUsers.resx">
+      <DependentUpon>LocationDepartmentWiseUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\LocationMaster.resx">
+      <DependentUpon>LocationMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\LocationWiseDepartment.resx">
+      <DependentUpon>LocationWiseDepartment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Authentication\UserWiseLocation.resx">
+      <DependentUpon>UserWiseLocation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Calculations\Maintenance.resx">
+      <DependentUpon>Maintenance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Calculations\Forecast.resx">
+      <DependentUpon>Forecast.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Calculations\ImportForecast.resx">
+      <DependentUpon>ImportForecast.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Calculations\ImportPlanning.resx">
+      <DependentUpon>ImportPlanning.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Calculations\Planning.resx">
+      <DependentUpon>Planning.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Calculations\DataEntry.resx">
+      <DependentUpon>DataEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\CategoryMaster.resx">
+      <DependentUpon>CategoryMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\ImportShiftSchedule.resx">
+      <DependentUpon>ImportShiftSchedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\MachineMaster.resx">
+      <DependentUpon>MachineMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\ProductMaster.resx">
+      <DependentUpon>ProductMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\ShiftScheduleMaster.resx">
+      <DependentUpon>ShiftScheduleMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\TestingForm.resx">
+      <DependentUpon>TestingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\BreakdownReport.resx">
+      <DependentUpon>BreakdownReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\DatewiseReport.resx">
+      <DependentUpon>DatewiseReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\DaywiseReport.resx">
+      <DependentUpon>DaywiseReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\OpertationSummaryReport.resx">
+      <DependentUpon>OpertationSummaryReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\ProductPerformanceReport.resx">
+      <DependentUpon>ProductPerformanceReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RDLCReports\DatewiseReportRDLC.rdlc" />
+    <EmbeddedResource Include="Reports\ReportRDLC.resx">
+      <DependentUpon>ReportRDLC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\ViewProduction.resx">
+      <DependentUpon>ViewProduction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Views\Dashboard.resx">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\TestDB.resx">
+      <DependentUpon>TestDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Reports\RDLCReports\DataEntryDS.xsc">
+      <DependentUpon>DataEntryDS.xsd</DependentUpon>
+    </None>
+    <None Include="Reports\RDLCReports\DataEntryDS.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataEntryDS.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reports\RDLCReports\DataEntryDS.xss">
+      <DependentUpon>DataEntryDS.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessLayerUtility\BusinessLayerUtility.csproj">
+      <Project>{528bae9e-87b1-4e55-a5f4-85c249012045}</Project>
+      <Name>BusinessLayerUtility</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\Microsoft.SqlServer.Types.160.1000.6\build\net462\Microsoft.SqlServer.Types.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Microsoft.SqlServer.Types.160.1000.6\build\net462\Microsoft.SqlServer.Types.props'))" />
+  </Target>
+</Project>

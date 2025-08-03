@@ -1,0 +1,168 @@
+D:\Study\MyNew\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+D:\Study\MyNew\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+D:\Study\MyNew\BusinessLayerUtility\bin\Debug\BouncyCastle.Crypto.dll
+D:\Study\MyNew\BusinessLayerUtility\bin\Debug\Google.Protobuf.dll
+D:\Study\MyNew\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.dll
+D:\Study\MyNew\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Study\MyNew\BusinessLayerUtility\bin\Debug\K4os.Hash.xxHash.dll
+D:\Study\MyNew\BusinessLayerUtility\bin\Debug\MySql.Data.dll
+D:\Study\MyNew\BusinessLayerUtility\bin\Debug\System.Buffers.dll
+D:\Study\MyNew\BusinessLayerUtility\bin\Debug\System.Memory.dll
+D:\Study\MyNew\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Study\MyNew\BusinessLayerUtility\bin\Debug\Ubiety.Dns.Core.dll
+D:\Study\MyNew\BusinessLayerUtility\bin\Debug\ZstdNet.dll
+D:\Study\MyNew\BusinessLayerUtility\bin\Debug\BouncyCastle.Crypto.xml
+D:\Study\MyNew\BusinessLayerUtility\bin\Debug\Google.Protobuf.pdb
+D:\Study\MyNew\BusinessLayerUtility\bin\Debug\Google.Protobuf.xml
+D:\Study\MyNew\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.xml
+D:\Study\MyNew\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Study\MyNew\BusinessLayerUtility\bin\Debug\K4os.Hash.xxHash.xml
+D:\Study\MyNew\BusinessLayerUtility\bin\Debug\MySql.Data.xml
+D:\Study\MyNew\BusinessLayerUtility\bin\Debug\System.Buffers.xml
+D:\Study\MyNew\BusinessLayerUtility\bin\Debug\System.Memory.xml
+D:\Study\MyNew\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Study\MyNew\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.AssemblyReference.cache
+D:\Study\MyNew\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.BusinessResources.resources
+D:\Study\MyNew\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.GenerateResource.cache
+D:\Study\MyNew\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.CoreCompileInputs.cache
+D:\Study\MyNew\BusinessLayerUtility\obj\Debug\Business.14C7491D.Up2Date
+D:\Study\MyNew\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+D:\Study\MyNew\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\BouncyCastle.Crypto.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\Google.Protobuf.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Hash.xxHash.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\System.Buffers.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\Ubiety.Dns.Core.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\ZstdNet.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\BouncyCastle.Crypto.xml
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\Google.Protobuf.pdb
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\Google.Protobuf.xml
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.xml
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Hash.xxHash.xml
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.xml
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\System.Buffers.xml
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.xml
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.AssemblyReference.cache
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.BusinessResources.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.GenerateResource.cache
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.CoreCompileInputs.cache
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\obj\Debug\Business.14C7491D.Up2Date
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\BouncyCastle.Crypto.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\Google.Protobuf.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Hash.xxHash.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\System.Buffers.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\Ubiety.Dns.Core.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\ZstdNet.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\BouncyCastle.Crypto.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\Google.Protobuf.pdb
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\Google.Protobuf.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Hash.xxHash.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\System.Buffers.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.AssemblyReference.cache
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.BusinessResources.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.GenerateResource.cache
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.CoreCompileInputs.cache
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\obj\Debug\Business.14C7491D.Up2Date
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\BouncyCastle.Crypto.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\Google.Protobuf.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Hash.xxHash.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\System.Buffers.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\Ubiety.Dns.Core.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\ZstdNet.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\BouncyCastle.Crypto.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\Google.Protobuf.pdb
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\Google.Protobuf.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Hash.xxHash.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\System.Buffers.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.AssemblyReference.cache
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.BusinessResources.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.GenerateResource.cache
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.CoreCompileInputs.cache
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\BusinessLayerUtility\obj\Debug\Business.14C7491D.Up2Date
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\BusinessLayerUtility\bin\Debug\BouncyCastle.Crypto.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\BusinessLayerUtility\bin\Debug\Google.Protobuf.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Hash.xxHash.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\BusinessLayerUtility\bin\Debug\System.Buffers.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\BusinessLayerUtility\bin\Debug\Ubiety.Dns.Core.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\BusinessLayerUtility\bin\Debug\ZstdNet.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\BusinessLayerUtility\bin\Debug\BouncyCastle.Crypto.xml
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\BusinessLayerUtility\bin\Debug\Google.Protobuf.pdb
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\BusinessLayerUtility\bin\Debug\Google.Protobuf.xml
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.xml
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Hash.xxHash.xml
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.xml
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\BusinessLayerUtility\bin\Debug\System.Buffers.xml
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.xml
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.AssemblyReference.cache
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.BusinessResources.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.GenerateResource.cache
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.CoreCompileInputs.cache
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\BusinessLayerUtility\obj\Debug\Business.14C7491D.Up2Date
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.xml
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csprojResolveAssemblyReference.cache
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.BusinessResources.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.GenerateResource.Cache
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
+D:\BitBucketProjects\Malas OEE\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+D:\BitBucketProjects\Malas OEE\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+D:\BitBucketProjects\Malas OEE\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.dll
+D:\BitBucketProjects\Malas OEE\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.xml
+D:\BitBucketProjects\Malas OEE\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csprojResolveAssemblyReference.cache
+D:\BitBucketProjects\Malas OEE\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.BusinessResources.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.GenerateResource.Cache
+D:\BitBucketProjects\Malas OEE\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+D:\BitBucketProjects\Malas OEE\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb

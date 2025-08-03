@@ -1,0 +1,764 @@
+D:\Study\MyNew\SPApplication\bin\Debug\x86\SqlServerSpatial160.dll
+D:\Study\MyNew\SPApplication\bin\Debug\x64\SqlServerSpatial160.dll
+D:\Study\MyNew\SPApplication\bin\Debug\SPApplication.exe.config
+D:\Study\MyNew\SPApplication\bin\Debug\SPApplication.exe
+D:\Study\MyNew\SPApplication\bin\Debug\SPApplication.pdb
+D:\Study\MyNew\SPApplication\bin\Debug\BusinessLayerUtility.dll
+D:\Study\MyNew\SPApplication\bin\Debug\EPPlus.Core.dll
+D:\Study\MyNew\SPApplication\bin\Debug\EPPlus.Interfaces.dll
+D:\Study\MyNew\SPApplication\bin\Debug\EPPlus.System.Drawing.dll
+D:\Study\MyNew\SPApplication\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Study\MyNew\SPApplication\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Study\MyNew\SPApplication\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Study\MyNew\SPApplication\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Study\MyNew\SPApplication\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Study\MyNew\SPApplication\bin\Debug\System.Buffers.dll
+D:\Study\MyNew\SPApplication\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Study\MyNew\SPApplication\bin\Debug\System.Memory.dll
+D:\Study\MyNew\SPApplication\bin\Debug\System.Numerics.Vectors.dll
+D:\Study\MyNew\SPApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Study\MyNew\SPApplication\bin\Debug\MySql.Data.dll
+D:\Study\MyNew\SPApplication\bin\Debug\Google.Protobuf.dll
+D:\Study\MyNew\SPApplication\bin\Debug\ZstdNet.dll
+D:\Study\MyNew\SPApplication\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Study\MyNew\SPApplication\bin\Debug\BouncyCastle.Crypto.dll
+D:\Study\MyNew\SPApplication\bin\Debug\Ubiety.Dns.Core.dll
+D:\Study\MyNew\SPApplication\bin\Debug\K4os.Compression.LZ4.dll
+D:\Study\MyNew\SPApplication\bin\Debug\K4os.Hash.xxHash.dll
+D:\Study\MyNew\SPApplication\bin\Debug\BusinessLayerUtility.pdb
+D:\Study\MyNew\SPApplication\bin\Debug\EPPlus.Core.xml
+D:\Study\MyNew\SPApplication\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Study\MyNew\SPApplication\bin\Debug\System.Buffers.xml
+D:\Study\MyNew\SPApplication\bin\Debug\System.Memory.xml
+D:\Study\MyNew\SPApplication\bin\Debug\System.Numerics.Vectors.xml
+D:\Study\MyNew\SPApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Study\MyNew\SPApplication\bin\Debug\MySql.Data.xml
+D:\Study\MyNew\SPApplication\bin\Debug\Google.Protobuf.pdb
+D:\Study\MyNew\SPApplication\bin\Debug\Google.Protobuf.xml
+D:\Study\MyNew\SPApplication\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Study\MyNew\SPApplication\bin\Debug\BouncyCastle.Crypto.xml
+D:\Study\MyNew\SPApplication\bin\Debug\K4os.Compression.LZ4.xml
+D:\Study\MyNew\SPApplication\bin\Debug\K4os.Hash.xxHash.xml
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.csproj.AssemblyReference.cache
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.csproj.SuggestedBindingRedirects.cache
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.exe.config
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.AssetApplication.AssetClient.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Master.AssetMaster.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.HR.AddUser.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Authentication.ChangePassword.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.LoginWindow.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Authentication.UpdateWizard.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Authentication.UserRights.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.ESSLData.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.ESSLUtility.ImportExportFacility.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.ListForms.DataBackup.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.MenuSettings.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.HR.Approval_Level_Master.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Master.AreaMaster.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Master.ShiftGroupShifts.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.HR.Basic_Salary_Master.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Master.CategoryMaster.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Master.Category_Master.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Master.CityVillageMaster.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Master.CommanMaster.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Master.CommanMasterAsset.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.HR.CompanyProfile.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.HR.ContractorMaster.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Master.CountryMaster.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.HR.DepartmentMaster.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.HR.DesignationMaster.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Master.DistrictMaster.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Master.Documents.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Master.DocumentsMaster.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Master.EmployeeEditMaster.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.HR.EmployeeMaster.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.HR.EmployeeTypeMaster.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.HR.Health_Insurance_Policy_Master.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Master.HolidayCompOffAsign.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Master.HolidayMaster.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Master.JobProfileMaster.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.HR.Leave_Management_Master.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.HR.Leave_Master.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.HR.LocationDepartmentWiseUsers.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.HR.LocationMaster.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Master.LocationWiseDepartment.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Master.MemoTemplateMaster.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.HR.Percentage_Structure.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Master.ShiftGroupMaster.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Master.ShiftMaster.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Transaction.ShiftRotationMaster.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Master.Shift_Master.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Master.StateMaster.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Master.TalukaMaster.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Properties.Resources.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Report.AssetReport.AssetReport.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Report.AttendanceSalaryReport.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Report.DailyAndMonthlyAttendanceReport.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.DurationwiseReport.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Report.ESSLPunchReport.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Report.HRReports.Form1.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Report.HRReports.Form2.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Report.HRReports.RDLCReportView.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Transaction.IndvisualUserAttendanceReport.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Report.IndvisualUserLeaveReport.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Report.LeaveReport.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Report.LocationDepartmentWiseAttendanceReport.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Report.LocationDepartmentWiseLeaveReport.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Report.LocationDepartmentWiseUsersReport.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Report.ManpowerDashboard.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Report.MonthlyAttendanceReport.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Report.ReportDataView.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Report.SystemInfo.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Report.ViewReportW.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Report.WorkingHoursReport.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Transaction.RaiseTicket.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Transaction.ViewTicket.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Transaction.Attendance.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Transaction.AttendanceWorking.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Transaction.AttendanceWorkingNew.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Transaction.CheckESSLAttendance.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Transaction.CommanEdit.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Transaction.CompOffApplication.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Transaction.EditAttendanceRecord.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Transaction.EmployeeProfile.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Transaction.LeaveApplication.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Transaction.ManpowerRequisition.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Transaction.MemoAndLetters.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Transaction.OTApproval.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Transaction.OutdoorPunch.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Transaction.OutdoorPunch_old.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Transaction.Recalculate.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Transaction.ViewCompOffApplication.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.ViewLeaveApplication.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.MainDashboard.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.Views.TestDB.resources
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.csproj.GenerateResource.cache
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.csproj.CoreCompileInputs.cache
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplic.5A27C5AB.Up2Date
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.exe
+D:\Study\MyNew\SPApplication\obj\Debug\SPApplication.pdb
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\x86\SqlServerSpatial160.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\x64\SqlServerSpatial160.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\SPApplication.exe.config
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\SPApplication.exe
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\SPApplication.pdb
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\BusinessLayerUtility.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\EPPlus.Core.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\EPPlus.Interfaces.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\EPPlus.System.Drawing.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\System.Buffers.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\System.ComponentModel.Annotations.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\System.Memory.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\System.Numerics.Vectors.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\MySql.Data.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\Google.Protobuf.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\ZstdNet.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\BouncyCastle.Crypto.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\Ubiety.Dns.Core.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\K4os.Compression.LZ4.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\K4os.Hash.xxHash.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\BusinessLayerUtility.pdb
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\EPPlus.Core.xml
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\System.Buffers.xml
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\System.Memory.xml
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\System.Numerics.Vectors.xml
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\MySql.Data.xml
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\Google.Protobuf.pdb
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\Google.Protobuf.xml
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\BouncyCastle.Crypto.xml
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\K4os.Compression.LZ4.xml
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\K4os.Hash.xxHash.xml
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.csproj.AssemblyReference.cache
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.AssetApplication.AssetClient.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.AssetMaster.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.AddUser.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Authentication.ChangePassword.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.LoginWindow.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Authentication.UpdateWizard.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Authentication.UserRights.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.ESSLData.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.ESSLUtility.ImportExportFacility.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.ListForms.DataBackup.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.MenuSettings.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.Approval_Level_Master.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.AreaMaster.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.ShiftGroupShifts.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.Basic_Salary_Master.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.CategoryMaster.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.Category_Master.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.CityVillageMaster.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.CommanMaster.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.CommanMasterAsset.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.CompanyProfile.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.ContractorMaster.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.CountryMaster.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.DepartmentMaster.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.DesignationMaster.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.DistrictMaster.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.Documents.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.DocumentsMaster.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.EmployeeEditMaster.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.EmployeeMaster.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.EmployeeTypeMaster.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.FinancialYearMaster.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.Health_Insurance_Policy_Master.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.HolidayCompOffAsign.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.HolidayMaster.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.JobProfileMaster.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.Leave_Management_Master.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.Leave_Master.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.LocationDepartmentWiseUsers.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.LocationMaster.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.LocationWiseDepartment.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.MemoTemplateMaster.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.Percentage_Structure.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.ShiftGroupMaster.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.ShiftMaster.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.ShiftRotationMaster.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.Shift_Master.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.StateMaster.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.TalukaMaster.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Properties.Resources.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.AssetReport.AssetReport.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.AttendanceSalaryReport.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.DailyAndMonthlyAttendanceReport.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.DurationwiseReport.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.ESSLPunchReport.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.HRReports.Form1.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.HRReports.Form2.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.HRReports.RDLCReportView.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.IndvisualUserAttendanceReport.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.IndvisualUserLeaveReport.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.LeaveReport.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.LocationDepartmentWiseAttendanceReport.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.LocationDepartmentWiseLeaveReport.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.LocationDepartmentWiseUsersReport.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.ManpowerDashboard.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.MonthlyAttendanceReport.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.ReportDataView.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.SystemInfo.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.ViewReportW.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.WorkingHoursReport.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.RaiseTicket.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.ViewTicket.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.Attendance.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.AttendanceWorking.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.AttendanceWorkingNew.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.CheckESSLAttendance.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.CommanEdit.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.CompOffApplication.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.EditAttendanceRecord.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.EmployeeProfile.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.LeaveApplication.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.ManpowerRequisition.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.MemoAndLetters.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.OTApproval.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.OutdoorPunch.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.OutdoorPunch_old.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.Recalculate.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.ViewCompOffApplication.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.ViewLeaveApplication.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.MainDashboard.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Views.TestDB.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.csproj.GenerateResource.cache
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.csproj.CoreCompileInputs.cache
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplic.5A27C5AB.Up2Date
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.exe
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.pdb
+D:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.Employees.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\x86\SqlServerSpatial160.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\x64\SqlServerSpatial160.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\SPApplication.exe.config
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\SPApplication.exe
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\SPApplication.pdb
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\BusinessLayerUtility.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\EPPlus.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\EPPlus.Interfaces.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\EPPlus.System.Drawing.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\System.Buffers.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\System.ComponentModel.Annotations.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\System.Memory.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\System.Numerics.Vectors.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\MySql.Data.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\Google.Protobuf.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\ZstdNet.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\BouncyCastle.Crypto.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\Ubiety.Dns.Core.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\K4os.Compression.LZ4.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\K4os.Hash.xxHash.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\BusinessLayerUtility.pdb
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\EPPlus.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\System.Buffers.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\System.Memory.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\System.Numerics.Vectors.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\MySql.Data.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\Google.Protobuf.pdb
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\Google.Protobuf.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\BouncyCastle.Crypto.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\K4os.Compression.LZ4.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\bin\Debug\K4os.Hash.xxHash.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.csproj.AssemblyReference.cache
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.AssetApplication.AssetClient.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.AssetMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.AddUser.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Authentication.ChangePassword.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.LoginWindow.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Authentication.UpdateWizard.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Authentication.UserRights.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.ESSLData.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.ESSLUtility.ImportExportFacility.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.ListForms.DataBackup.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.MenuSettings.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.Approval_Level_Master.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.AreaMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.ShiftGroupShifts.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.Basic_Salary_Master.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.CategoryMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.Category_Master.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.CityVillageMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.CommanMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.CommanMasterAsset.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.CompanyProfile.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.ContractorMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.CountryMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.DepartmentMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.DesignationMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.DistrictMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.Documents.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.DocumentsMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.EmployeeEditMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.EmployeeMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.Employees.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.EmployeeTypeMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.FinancialYearMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.Health_Insurance_Policy_Master.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.HolidayCompOffAsign.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.HolidayMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.JobProfileMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.Leave_Management_Master.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.Leave_Master.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.LocationDepartmentWiseUsers.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.LocationMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.LocationWiseDepartment.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.MemoTemplateMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.Percentage_Structure.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.ShiftGroupMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.ShiftMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.ShiftRotationMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.Shift_Master.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.StateMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.TalukaMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Properties.Resources.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.AssetReport.AssetReport.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.AttendanceSalaryReport.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.DailyAndMonthlyAttendanceReport.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.DurationwiseReport.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.ESSLPunchReport.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.HRReports.Form1.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.HRReports.Form2.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.HRReports.RDLCReportView.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.IndvisualUserAttendanceReport.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.IndvisualUserLeaveReport.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.LeaveReport.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.LocationDepartmentWiseAttendanceReport.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.LocationDepartmentWiseLeaveReport.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.LocationDepartmentWiseUsersReport.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.ManpowerDashboard.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.MonthlyAttendanceReport.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.ReportDataView.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.SystemInfo.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.ViewReportW.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.WorkingHoursReport.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.RaiseTicket.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.ViewTicket.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.Attendance.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.AttendanceWorking.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.AttendanceWorkingNew.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.CheckESSLAttendance.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.CommanEdit.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.CompOffApplication.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.EditAttendanceRecord.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.EmployeeProfile.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.LeaveApplication.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.ManpowerRequisition.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.MemoAndLetters.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.OTApproval.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.OutdoorPunch.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.OutdoorPunch_old.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.Recalculate.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.ViewCompOffApplication.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.ViewLeaveApplication.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.MainDashboard.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Views.TestDB.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.csproj.GenerateResource.cache
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.csproj.CoreCompileInputs.cache
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplic.5A27C5AB.Up2Date
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.exe
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.pdb
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\x86\SqlServerSpatial160.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\x64\SqlServerSpatial160.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\SPApplication.exe.config
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\SPApplication.exe
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\SPApplication.pdb
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\BusinessLayerUtility.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\EPPlus.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\EPPlus.Interfaces.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\EPPlus.System.Drawing.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\System.Buffers.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\System.ComponentModel.Annotations.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\System.Memory.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\System.Numerics.Vectors.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\MySql.Data.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\Google.Protobuf.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\ZstdNet.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\BouncyCastle.Crypto.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\Ubiety.Dns.Core.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\K4os.Compression.LZ4.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\K4os.Hash.xxHash.dll
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\BusinessLayerUtility.pdb
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\EPPlus.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\System.Buffers.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\System.Memory.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\System.Numerics.Vectors.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\MySql.Data.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\Google.Protobuf.pdb
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\Google.Protobuf.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\BouncyCastle.Crypto.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\K4os.Compression.LZ4.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\bin\Debug\K4os.Hash.xxHash.xml
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.csproj.AssemblyReference.cache
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.AssetApplication.AssetClient.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.AssetMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.AddUser.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Authentication.ChangePassword.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.LoginWindow.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Authentication.UpdateWizard.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Authentication.UserRights.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.ESSLData.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.ESSLUtility.ImportExportFacility.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.ListForms.DataBackup.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.MenuSettings.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.Approval_Level_Master.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.AreaMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.ShiftGroupShifts.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.Basic_Salary_Master.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.CategoryMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.Category_Master.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.CityVillageMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.CommanMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.CommanMasterAsset.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.CompanyProfile.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.ContractorMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.CountryMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.DepartmentMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.DesignationMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.DistrictMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.Documents.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.DocumentsMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.EmployeeEditMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.EmployeeMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.Employees.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.EmployeeTypeMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.FinancialYearMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.Health_Insurance_Policy_Master.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.HolidayCompOffAsign.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.HolidayMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.JobProfileMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.Leave_Management_Master.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.Leave_Master.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.LocationDepartmentWiseUsers.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.LocationMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.LocationWiseDepartment.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.MemoTemplateMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.HR.Percentage_Structure.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.ShiftGroupMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.ShiftMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.ShiftRotationMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.Shift_Master.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.StateMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Master.TalukaMaster.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Properties.Resources.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.AssetReport.AssetReport.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.AttendanceSalaryReport.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.DailyAndMonthlyAttendanceReport.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.DurationwiseReport.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.ESSLPunchReport.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.HRReports.Form1.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.HRReports.Form2.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.HRReports.RDLCReportView.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.IndvisualUserAttendanceReport.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.IndvisualUserLeaveReport.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.LeaveReport.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.LocationDepartmentWiseAttendanceReport.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.LocationDepartmentWiseLeaveReport.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.LocationDepartmentWiseUsersReport.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.ManpowerDashboard.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.MonthlyAttendanceReport.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.ReportDataView.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.SystemInfo.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.ViewReportW.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Report.WorkingHoursReport.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.RaiseTicket.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.ViewTicket.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.Attendance.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.AttendanceWorking.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.AttendanceWorkingNew.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.CheckESSLAttendance.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.CommanEdit.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.CompOffApplication.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.EditAttendanceRecord.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.EmployeeProfile.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.LeaveApplication.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.ManpowerRequisition.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.MemoAndLetters.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.OTApproval.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.OutdoorPunch.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.OutdoorPunch_old.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.Recalculate.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Transaction.ViewCompOffApplication.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.ViewLeaveApplication.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.MainDashboard.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Views.TestDB.resources
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.csproj.GenerateResource.cache
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.csproj.CoreCompileInputs.cache
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplic.5A27C5AB.Up2Date
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.exe
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.pdb
+E:\BitBucketProjects\Malas Fruit\NewDevelopment\NewDevelopment\SPApplication\SPApplication\obj\Debug\SPApplication.Authentication.UserRightsNew.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\x86\SqlServerSpatial160.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\x64\SqlServerSpatial160.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\SPApplication.exe.config
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\SPApplication.exe
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\SPApplication.pdb
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\BusinessLayerUtility.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\EPPlus.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\EPPlus.Interfaces.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\EPPlus.System.Drawing.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\System.Buffers.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\System.ComponentModel.Annotations.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\System.Memory.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\System.Numerics.Vectors.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\MySql.Data.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\Google.Protobuf.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\ZstdNet.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\BouncyCastle.Crypto.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\Ubiety.Dns.Core.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\K4os.Compression.LZ4.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\K4os.Hash.xxHash.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\BusinessLayerUtility.pdb
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\EPPlus.xml
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\System.Buffers.xml
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\System.Memory.xml
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\System.Numerics.Vectors.xml
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\MySql.Data.xml
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\Google.Protobuf.pdb
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\Google.Protobuf.xml
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\BouncyCastle.Crypto.xml
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\K4os.Compression.LZ4.xml
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\bin\Debug\K4os.Hash.xxHash.xml
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.csproj.AssemblyReference.cache
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.Authentication.ChangePassword.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.LoginWindow.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.Authentication.UpdateWizard.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.Authentication.UserRights.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.ListForms.DataBackup.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.MenuSettings.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.HR.DepartmentMaster.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.HR.DesignationMaster.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.Master.FinancialYearMaster.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.Master.HolidayMaster.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.HR.LocationDepartmentWiseUsers.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.HR.LocationMaster.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.Master.LocationWiseDepartment.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.Properties.Resources.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.MainDashboard.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.Views.TestDB.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.csproj.GenerateResource.cache
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.csproj.CoreCompileInputs.cache
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplic.5A27C5AB.Up2Date
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.exe
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.pdb
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Master.ProductMaster.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Calculations.DataEntry.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Reports.CommanReport.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Calculations.ImportPlanning.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Calculations.Planning.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Calculations.ImportForecast.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Calculations.Forecast.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Reports.ViewProduction.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Calculations.Maintenance.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Reports.ReportRDLC.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Master.ShiftScheduleMaster.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Master.ImportShiftSchedule.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.Authentication.Users.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.Master.UserWiseLocation.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Reports.OpertationSummaryReport.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Master.MachineMaster.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Master.CategoryMaster.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\SPApplication\SPApplication\obj\Debug\SPApplication.Master.TestingForm.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\bin\Debug\SPApplication.exe.config
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.exe
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.pdb
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.csprojResolveAssemblyReference.cache
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.Authentication.ChangePassword.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.LoginWindow.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.Authentication.UpdateWizard.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.Authentication.UserRights.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.Authentication.Users.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.ListForms.DataBackup.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.MenuSettings.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.HR.DepartmentMaster.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.HR.DesignationMaster.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.Master.FinancialYearMaster.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.Master.HolidayMaster.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.HR.LocationDepartmentWiseUsers.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.HR.LocationMaster.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.Master.LocationWiseDepartment.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.Master.UserWiseLocation.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Calculations.Maintenance.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Calculations.Forecast.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Calculations.ImportForecast.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Calculations.ImportPlanning.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Calculations.Planning.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Calculations.DataEntry.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Master.CategoryMaster.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Master.ImportShiftSchedule.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Master.MachineMaster.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Master.ProductMaster.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Master.ShiftScheduleMaster.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.Master.TestingForm.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Reports.OpertationSummaryReport.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Reports.ReportRDLC.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Reports.ViewProduction.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.Properties.Resources.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.MainDashboard.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.Views.TestDB.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.csproj.GenerateResource.Cache
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\bin\Debug\x86\SqlServerSpatial160.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\bin\Debug\x64\SqlServerSpatial160.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\bin\Debug\SPApplication.exe
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\bin\Debug\SPApplication.pdb
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\bin\Debug\BusinessLayerUtility.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\bin\Debug\EPPlus.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\bin\Debug\EPPlus.Interfaces.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\bin\Debug\EPPlus.System.Drawing.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\bin\Debug\System.Memory.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\bin\Debug\System.Numerics.Vectors.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\bin\Debug\BusinessLayerUtility.pdb
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\bin\Debug\EPPlus.xml
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\bin\Debug\System.Memory.xml
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\bin\Debug\System.Numerics.Vectors.xml
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\RdlCompile.cache
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\RdlCompile.compiled
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Reports.DatewiseReport.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.Reports.DaywiseReport.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.Reports.BreakdownReport.resources
+D:\BitBucketProjects\Malas Fruit\OEE Project\New Development\2012\SPApplication\SPApplication\obj\Debug\SPApplication.Reports.ProductPerformanceReport.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\bin\Debug\SPApplication.exe.config
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.exe
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.pdb
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\bin\Debug\x86\SqlServerSpatial160.dll
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\bin\Debug\x64\SqlServerSpatial160.dll
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\bin\Debug\SPApplication.exe
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\bin\Debug\SPApplication.pdb
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\bin\Debug\BusinessLayerUtility.dll
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\bin\Debug\EPPlus.dll
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\bin\Debug\EPPlus.Interfaces.dll
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\bin\Debug\EPPlus.System.Drawing.dll
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\bin\Debug\System.Memory.dll
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\bin\Debug\System.Numerics.Vectors.dll
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\bin\Debug\BusinessLayerUtility.pdb
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\bin\Debug\EPPlus.xml
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\bin\Debug\System.Memory.xml
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\bin\Debug\System.Numerics.Vectors.xml
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.csprojResolveAssemblyReference.cache
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.Authentication.ChangePassword.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.LoginWindow.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.Authentication.UpdateWizard.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.Authentication.UserRights.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.Authentication.Users.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.ListForms.DataBackup.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.MenuSettings.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.HR.DepartmentMaster.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.HR.DesignationMaster.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.Master.FinancialYearMaster.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.Master.HolidayMaster.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.HR.LocationDepartmentWiseUsers.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.HR.LocationMaster.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.Master.LocationWiseDepartment.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.Master.UserWiseLocation.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Calculations.Maintenance.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Calculations.Forecast.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Calculations.ImportForecast.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Calculations.ImportPlanning.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Calculations.Planning.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Calculations.DataEntry.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Master.CategoryMaster.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Master.ImportShiftSchedule.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Master.MachineMaster.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Master.ProductMaster.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Master.ShiftScheduleMaster.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.Master.TestingForm.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.Reports.BreakdownReport.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Reports.DatewiseReport.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.Reports.DaywiseReport.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Reports.OpertationSummaryReport.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.Reports.ProductPerformanceReport.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Reports.ReportRDLC.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.OEEApplication.Reports.ViewProduction.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.Properties.Resources.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.MainDashboard.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.Views.TestDB.resources
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\SPApplication.csproj.GenerateResource.Cache
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\RdlCompile.cache
+D:\BitBucketProjects\Malas OEE\SPApplication\SPApplication\obj\Debug\RdlCompile.compiled

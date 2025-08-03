@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPApplication", "SPApplication.csproj", "{745646EB-B7BA-41D8-AF67-03933C3589FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayerUtility", "..\BusinessLayerUtility\BusinessLayerUtility.csproj", "{528BAE9E-87B1-4E55-A5F4-85C249012045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{745646EB-B7BA-41D8-AF67-03933C3589FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{745646EB-B7BA-41D8-AF67-03933C3589FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{745646EB-B7BA-41D8-AF67-03933C3589FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{745646EB-B7BA-41D8-AF67-03933C3589FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{528BAE9E-87B1-4E55-A5F4-85C249012045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{528BAE9E-87B1-4E55-A5F4-85C249012045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{528BAE9E-87B1-4E55-A5F4-85C249012045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{528BAE9E-87B1-4E55-A5F4-85C249012045}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {181EE2F9-27DF-4F94-A98F-485DDD5D6D88}
+	EndGlobalSection
+EndGlobal
