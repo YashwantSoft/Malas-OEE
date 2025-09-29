@@ -3526,7 +3526,7 @@ namespace BusinessLayerUtility
             clb.DataSource = null;
             DataSet ds = new DataSet();
             //objBL.Query = "select CommanMasterId," + ColumnNameCM + " from commanmaster where " + ColumnNameCM + " IS NOT NULL and CancelTag=0 " + MenuIn + " order by " + ColumnNameCM + " asc";
-            objBL.Query = "select MenuId,MenuName,HeaderName from menumaster where CancelTag=0";
+            objBL.Query = "select MenuId,MenuName,HeaderName from menumaster where CancelTag=0 order by HeaderName asc";
 
             ds = objBL.ReturnDataSet();
             if (ds.Tables[0].Rows.Count > 0)
@@ -3649,7 +3649,7 @@ namespace BusinessLayerUtility
 
             //objBL.Query = "select UserRightsId,UserId,MenuName,AddFlag,EditFlag,DeleteFlag,ViewFlag,ApprovalFlag from userrights where UserId=" + BusinessLayer.UserId_Static + " and MenuName='" + MName + "'";
             //objBL.Query = "select UR.UserRightsId,UR.UserId,E.EmployeeName,UR.MenuId,MM.MenuName,MM.HeaderName,UR.AddFlag,UR.EditFlag,UR.DeleteFlag,UR.ViewFlag,UR.ApprovalFlag from UserRights UR inner join Users E on E.UserId=UR.UserId inner joint menumaster MM on MM.MenuId=UR.MenuId where UR.CancelTag=0 and E.CancelTag=0 and MM.CancelTag=0 and UserId=" + BusinessLayer.UserId_Static + " and MM.MenuName='" + MName + "'";
-            objBL.Query = "select UR.UserRightsId,UR.UserId,E.EmployeeName,UR.MenuId,MM.MenuName,MM.HeaderName,UR.AddFlag,UR.EditFlag,UR.DeleteFlag,UR.ViewFlag,UR.ApprovalFlag from UserRights UR inner join Users E on E.UserId=UR.UserId inner join menumaster MM on MM.MenuId=UR.MenuId where UR.CancelTag=0 and E.CancelTag=0 and MM.CancelTag=0 and UR.UserId=" + BusinessLayer.UserId_Static + "  and MM.MenuName='" + MName + "'";
+            objBL.Query = "select UR.UserRightsId,UR.UserId,E.EmployeeName,UR.MenuId,MM.MenuName,MM.HeaderName,UR.AddFlag,UR.EditFlag,UR.DeleteFlag,UR.ViewFlag,UR.ApprovalFlag from UserRights UR inner join Users E on E.UserId=UR.UserId inner join menumaster MM on MM.MenuId=UR.MenuId where UR.CancelTag=0 and E.CancelTag=0 and MM.CancelTag=0 and UR.UserId=" + BusinessLayer.UserId_Static + "  and MM.MenuName='" + MName + "' order by MM.HeaderName asc";
             ds = objBL.ReturnDataSet();
             if (ds.Tables[0].Rows.Count > 0)
             {

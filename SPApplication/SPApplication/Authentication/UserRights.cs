@@ -48,163 +48,163 @@ namespace SPApplication.Authentication
                 //objRL.ColumnNameCM = "MenuList";
                 //objRL.Fill_CheckListBox_Comman(clbMenu);
 
-                MenuListIn = " and MenuList IN('" + BusinessResources.Add_User_M + "', " +
-                                             "'" + BusinessResources.Asset_Master_M + "', " +
-                                             "'" + BusinessResources.Attendance_M + "', " +
-                                             "'" + BusinessResources.Change_Password_M + "', " +
-                                             "'" + BusinessResources.Check_ESSL_Attendance_M + "', " +
-                                             "'" + BusinessResources.Client_Machine_M + "', " +
-                                             "'" + BusinessResources.Comp_Off_Application_M + "', " +
-                                             "'" + BusinessResources.View_Comp_Off_Application_M + "', " +
-                                             "'" + BusinessResources.Comp_Off_Report_M + "', " +
-                                             "'" + BusinessResources.Daily_And_Monthly_Attendance_Report_M + "', " +
-                                             "'" + BusinessResources.Data_Backup_M + "', " +
-                                             "'" + BusinessResources.Documents_M + "', " +
-                                             "'" + BusinessResources.Download_Template_M + "', " +
-                                             "'" + BusinessResources.Duration_Wise_Report_M + "', " +
-                                             "'" + BusinessResources.ESSL_Data_M + "', " +
-                                             "'" + BusinessResources.Export_M + "', " +
-                                             "'" + BusinessResources.Import_M + "', " +
-                                             "'" + BusinessResources.Individual_User_Attendance_Report_M + "', " +
-                                             "'" + BusinessResources.Individual_User_Comp_Off_Report_M + "', " +
-                                             "'" + BusinessResources.Individual_User_Leave_Report_M + "', " +
-                                             "'" + BusinessResources.Leave_Application_M + "', " +
-                                             "'" + BusinessResources.Leave_Report_M + "', " +
-                                             "'" + BusinessResources.Letters_M + "', " +
-                                             "'" + BusinessResources.Location_And_Department_Wise_Attendance_Report_M + "', " +
-                                             "'" + BusinessResources.Location_And_Department_Wise_Comp_Off_Report_M + "', " +
-                                             "'" + BusinessResources.Location_And_Department_Wise_Leave_Report_M + "', " +
-                                             "'" + BusinessResources.Location_And_Department_Wise_Users_M + "', " +
-                                             "'" + BusinessResources.Location_Wise_Department_M + "', " +
-                                             "'" + BusinessResources.AttendanceSalaryReport_M + "', " +
-                                             "'" + BusinessResources.Manpower_Dashboard_M + "', " +
-                                             "'" + BusinessResources.Manpower_Requisition_M + "', " +
-                                             "'" + BusinessResources.Master_M + "', " +
-                                             "'" + BusinessResources.Memo_M + "', " +
-                                             "'" + BusinessResources.Outdoor_Punch_M + "', " +
-                                             "'" + BusinessResources.Raise_Ticket_M + "', " +
-                                             "'" + BusinessResources.User_Rights_M + "', " +
-                                             "'" + BusinessResources.View_Leave_Application_M + "', " +
-                                             "'" + BusinessResources.View_Tickets_M + "', " +
-                                             "'" + BusinessResources.Working_Hours_Report_M + "')";
+                //MenuListIn = " and MenuList IN('" + BusinessResources.Add_User_M + "', " +
+                //                             "'" + BusinessResources.Asset_Master_M + "', " +
+                //                             "'" + BusinessResources.Attendance_M + "', " +
+                //                             "'" + BusinessResources.Change_Password_M + "', " +
+                //                             "'" + BusinessResources.Check_ESSL_Attendance_M + "', " +
+                //                             "'" + BusinessResources.Client_Machine_M + "', " +
+                //                             "'" + BusinessResources.Comp_Off_Application_M + "', " +
+                //                             "'" + BusinessResources.View_Comp_Off_Application_M + "', " +
+                //                             "'" + BusinessResources.Comp_Off_Report_M + "', " +
+                //                             "'" + BusinessResources.Daily_And_Monthly_Attendance_Report_M + "', " +
+                //                             "'" + BusinessResources.Data_Backup_M + "', " +
+                //                             "'" + BusinessResources.Documents_M + "', " +
+                //                             "'" + BusinessResources.Download_Template_M + "', " +
+                //                             "'" + BusinessResources.Duration_Wise_Report_M + "', " +
+                //                             "'" + BusinessResources.ESSL_Data_M + "', " +
+                //                             "'" + BusinessResources.Export_M + "', " +
+                //                             "'" + BusinessResources.Import_M + "', " +
+                //                             "'" + BusinessResources.Individual_User_Attendance_Report_M + "', " +
+                //                             "'" + BusinessResources.Individual_User_Comp_Off_Report_M + "', " +
+                //                             "'" + BusinessResources.Individual_User_Leave_Report_M + "', " +
+                //                             "'" + BusinessResources.Leave_Application_M + "', " +
+                //                             "'" + BusinessResources.Leave_Report_M + "', " +
+                //                             "'" + BusinessResources.Letters_M + "', " +
+                //                             "'" + BusinessResources.Location_And_Department_Wise_Attendance_Report_M + "', " +
+                //                             "'" + BusinessResources.Location_And_Department_Wise_Comp_Off_Report_M + "', " +
+                //                             "'" + BusinessResources.Location_And_Department_Wise_Leave_Report_M + "', " +
+                //                             "'" + BusinessResources.Location_And_Department_Wise_Users_M + "', " +
+                //                             "'" + BusinessResources.Location_Wise_Department_M + "', " +
+                //                             "'" + BusinessResources.AttendanceSalaryReport_M + "', " +
+                //                             "'" + BusinessResources.Manpower_Dashboard_M + "', " +
+                //                             "'" + BusinessResources.Manpower_Requisition_M + "', " +
+                //                             "'" + BusinessResources.Master_M + "', " +
+                //                             "'" + BusinessResources.Memo_M + "', " +
+                //                             "'" + BusinessResources.Outdoor_Punch_M + "', " +
+                //                             "'" + BusinessResources.Raise_Ticket_M + "', " +
+                //                             "'" + BusinessResources.User_Rights_M + "', " +
+                //                             "'" + BusinessResources.View_Leave_Application_M + "', " +
+                //                             "'" + BusinessResources.View_Tickets_M + "', " +
+                //                             "'" + BusinessResources.Working_Hours_Report_M + "')";
 
-                //if (UType == BusinessResources.USER_TYPE_ADMINISTRATOR || UType == BusinessResources.USER_TYPE_HROFFICER)
-                //{
-                //    MenuListIn = " and MenuList IN('" + BusinessResources.Add_User_M + "', " +
-                //                                 "'" + BusinessResources.Asset_Master_M + "', " +
-                //                                 "'" + BusinessResources.Attendance_M + "', " +
-                //                                 "'" + BusinessResources.Change_Password_M + "', " +
-                //                                 "'" + BusinessResources.Check_ESSL_Attendance_M + "', " +
-                //                                 "'" + BusinessResources.Client_Machine_M + "', " +
-                //                                 "'" + BusinessResources.Comp_Off_Application_M + "', " +
-                //                                 "'" + BusinessResources.View_Comp_Off_Application_M + "', " +
-                //                                 "'" + BusinessResources.Comp_Off_Report_M + "', " +
-                //                                 "'" + BusinessResources.Daily_And_Monthly_Attendance_Report_M + "', " +
-                //                                 "'" + BusinessResources.Data_Backup_M + "', " +
-                //                                 "'" + BusinessResources.Documents_M + "', " +
-                //                                 "'" + BusinessResources.Download_Template_M + "', " +
-                //                                 "'" + BusinessResources.Duration_Wise_Report_M + "', " +
-                //                                 "'" + BusinessResources.ESSL_Data_M + "', " +
-                //                                 "'" + BusinessResources.Export_M + "', " +
-                //                                 "'" + BusinessResources.Import_M + "', " +
-                //                                 "'" + BusinessResources.Indvisual_User_Attendance_Report_M + "', " +
-                //                                 "'" + BusinessResources.Indvisual_User_Comp_Off_Report_M + "', " +
-                //                                 "'" + BusinessResources.Indvisual_User_Leave_Report_M + "', " +
-                //                                 "'" + BusinessResources.Leave_Application_M + "', " +
-                //                                 "'" + BusinessResources.Leave_Report_M + "', " +
-                //                                 "'" + BusinessResources.Letters_M + "', " +
-                //                                 "'" + BusinessResources.Location_And_Department_Wise_Attendance_Report_M + "', " +
-                //                                 "'" + BusinessResources.Location_And_Department_Wise_Comp_Off_Report_M + "', " +
-                //                                 "'" + BusinessResources.Location_And_Department_Wise_Leave_Report_M + "', " +
-                //                                 "'" + BusinessResources.Location_And_Department_Wise_Users_M + "', " +
-                //                                 "'" + BusinessResources.Location_Wise_Department_M + "', " +
-                //                                 "'" + BusinessResources.Manpower_Dashboard_M + "', " +
-                //                                 "'" + BusinessResources.Manpower_Requisition_M + "', " +
-                //                                 "'" + BusinessResources.Master_M + "', " +
-                //                                 "'" + BusinessResources.Memo_M + "', " +
-                //                                 "'" + BusinessResources.Outdoor_Punch_M + "', " +
-                //                                 "'" + BusinessResources.Raise_Ticket_M + "', " +
-                //                                 "'" + BusinessResources.User_Rights_M + "', " +
-                //                                 "'" + BusinessResources.View_Leave_Application_M + "', " +
-                //                                 "'" + BusinessResources.View_Tickets_M + "', " +
-                //                                 "'" + BusinessResources.Working_Hours_Report_M +"')";
-                //}
-                //else if (UType == BusinessResources.USER_TYPE_PLANTHEAD || UType == BusinessResources.USER_TYPE_MANAGER)
-                //{
-                //    MenuListIn = " and MenuList IN('" + BusinessResources.Attendance_M + "', " +
-                //                                 "'" + BusinessResources.Change_Password_M + "', " +
-                //                                 "'" + BusinessResources.Client_Machine_M + "', " +
-                //                                 "'" + BusinessResources.Comp_Off_Application_M + "', " +
-                //                                 "'" + BusinessResources.View_Comp_Off_Application_M + "', " +
-                //                                 "'" + BusinessResources.Documents_M + "', " +
-                //                                 "'" + BusinessResources.Duration_Wise_Report_M + "', " +
-                //                                 "'" + BusinessResources.Indvisual_User_Attendance_Report_M + "', " +
-                //                                 "'" + BusinessResources.Indvisual_User_Comp_Off_Report_M + "', " +
-                //                                 "'" + BusinessResources.Indvisual_User_Leave_Report_M + "', " +
-                //                                 "'" + BusinessResources.Leave_Application_M + "', " +
-                //                                 "'" + BusinessResources.Location_And_Department_Wise_Attendance_Report_M + "', " +
-                //                                 "'" + BusinessResources.Location_And_Department_Wise_Comp_Off_Report_M + "', " +
-                //                                 "'" + BusinessResources.Location_And_Department_Wise_Leave_Report_M + "', " +
-                //                                 "'" + BusinessResources.Location_And_Department_Wise_Users_M + "', " +
-                //                                 "'" + BusinessResources.Location_Wise_Department_M + "', " +
-                //                                 "'" + BusinessResources.Manpower_Dashboard_M + "', " +
-                //                                 "'" + BusinessResources.Manpower_Requisition_M + "', " +
-                //                                 "'" + BusinessResources.Memo_M + "', " +
-                //                                 "'" + BusinessResources.Raise_Ticket_M + "', " +
-                //                                 "'" + BusinessResources.View_Leave_Application_M + "', " +
-                //                                 "'" + BusinessResources.View_Tickets_M + "', " +
-                //                                 "'" + BusinessResources.Working_Hours_Report_M + "')";
-                //}
-                //else if (UType == BusinessResources.USER_TYPE_SENIOROFFICER)
-                //{
-                //    MenuListIn = " and MenuList IN('" + BusinessResources.Attendance_M + "', " +
-                //                                 "'" + BusinessResources.Change_Password_M + "', " +
-                //                                 "'" + BusinessResources.Client_Machine_M + "', " +
-                //                                 "'" + BusinessResources.Comp_Off_Application_M + "', " +
-                //                                 "'" + BusinessResources.Documents_M + "', " +
-                //                                 "'" + BusinessResources.Duration_Wise_Report_M + "', " +
-                //                                 "'" + BusinessResources.Indvisual_User_Attendance_Report_M + "', " +
-                //                                 "'" + BusinessResources.Indvisual_User_Comp_Off_Report_M + "', " +
-                //                                 "'" + BusinessResources.Indvisual_User_Leave_Report_M + "', " +
-                //                                 "'" + BusinessResources.Leave_Application_M + "', " +
-                //                                 "'" + BusinessResources.Location_And_Department_Wise_Attendance_Report_M + "', " +
-                //                                 "'" + BusinessResources.Location_And_Department_Wise_Comp_Off_Report_M + "', " +
-                //                                 "'" + BusinessResources.Location_And_Department_Wise_Leave_Report_M + "', " +
-                //                                 "'" + BusinessResources.Location_And_Department_Wise_Users_M + "', " +
-                //                                 "'" + BusinessResources.Location_Wise_Department_M + "', " +
-                //                                 "'" + BusinessResources.Manpower_Dashboard_M + "', " +
-                //                                 "'" + BusinessResources.Manpower_Requisition_M + "', " +
-                //                                 "'" + BusinessResources.Memo_M + "', " +
-                //                                 "'" + BusinessResources.Raise_Ticket_M + "', " +
-                //                                 "'" + BusinessResources.View_Leave_Application_M + "', " +
-                //                                 "'" + BusinessResources.View_Tickets_M + "', " +
-                //                                 "'" + BusinessResources.Working_Hours_Report_M + "')";
-                //}
-                //else if (UType == BusinessResources.USER_TYPE_OFFICER || UType == BusinessResources.USER_TYPE_INCHARGE || UType == BusinessResources.USER_TYPE_SUPERVISOR)
-                //{
-                //    MenuListIn = " and MenuList IN('" + BusinessResources.Change_Password_M + "', " +
-                //                                 "'" + BusinessResources.Client_Machine_M + "', " +
-                //                                 "'" + BusinessResources.Comp_Off_Application_M + "', " +
-                //                                 "'" + BusinessResources.Documents_M + "', " +
-                //                                 "'" + BusinessResources.Indvisual_User_Attendance_Report_M + "', " +
-                //                                 "'" + BusinessResources.Indvisual_User_Comp_Off_Report_M + "', " +
-                //                                 "'" + BusinessResources.Indvisual_User_Leave_Report_M + "', " +
-                //                                 "'" + BusinessResources.Leave_Application_M + "', " +
-                //                                 "'" + BusinessResources.Raise_Ticket_M + "', " +
-                //                                 "'" + BusinessResources.View_Tickets_M + "')";
-                //}
-                //else
+                ////if (UType == BusinessResources.USER_TYPE_ADMINISTRATOR || UType == BusinessResources.USER_TYPE_HROFFICER)
+                ////{
+                ////    MenuListIn = " and MenuList IN('" + BusinessResources.Add_User_M + "', " +
+                ////                                 "'" + BusinessResources.Asset_Master_M + "', " +
+                ////                                 "'" + BusinessResources.Attendance_M + "', " +
+                ////                                 "'" + BusinessResources.Change_Password_M + "', " +
+                ////                                 "'" + BusinessResources.Check_ESSL_Attendance_M + "', " +
+                ////                                 "'" + BusinessResources.Client_Machine_M + "', " +
+                ////                                 "'" + BusinessResources.Comp_Off_Application_M + "', " +
+                ////                                 "'" + BusinessResources.View_Comp_Off_Application_M + "', " +
+                ////                                 "'" + BusinessResources.Comp_Off_Report_M + "', " +
+                ////                                 "'" + BusinessResources.Daily_And_Monthly_Attendance_Report_M + "', " +
+                ////                                 "'" + BusinessResources.Data_Backup_M + "', " +
+                ////                                 "'" + BusinessResources.Documents_M + "', " +
+                ////                                 "'" + BusinessResources.Download_Template_M + "', " +
+                ////                                 "'" + BusinessResources.Duration_Wise_Report_M + "', " +
+                ////                                 "'" + BusinessResources.ESSL_Data_M + "', " +
+                ////                                 "'" + BusinessResources.Export_M + "', " +
+                ////                                 "'" + BusinessResources.Import_M + "', " +
+                ////                                 "'" + BusinessResources.Indvisual_User_Attendance_Report_M + "', " +
+                ////                                 "'" + BusinessResources.Indvisual_User_Comp_Off_Report_M + "', " +
+                ////                                 "'" + BusinessResources.Indvisual_User_Leave_Report_M + "', " +
+                ////                                 "'" + BusinessResources.Leave_Application_M + "', " +
+                ////                                 "'" + BusinessResources.Leave_Report_M + "', " +
+                ////                                 "'" + BusinessResources.Letters_M + "', " +
+                ////                                 "'" + BusinessResources.Location_And_Department_Wise_Attendance_Report_M + "', " +
+                ////                                 "'" + BusinessResources.Location_And_Department_Wise_Comp_Off_Report_M + "', " +
+                ////                                 "'" + BusinessResources.Location_And_Department_Wise_Leave_Report_M + "', " +
+                ////                                 "'" + BusinessResources.Location_And_Department_Wise_Users_M + "', " +
+                ////                                 "'" + BusinessResources.Location_Wise_Department_M + "', " +
+                ////                                 "'" + BusinessResources.Manpower_Dashboard_M + "', " +
+                ////                                 "'" + BusinessResources.Manpower_Requisition_M + "', " +
+                ////                                 "'" + BusinessResources.Master_M + "', " +
+                ////                                 "'" + BusinessResources.Memo_M + "', " +
+                ////                                 "'" + BusinessResources.Outdoor_Punch_M + "', " +
+                ////                                 "'" + BusinessResources.Raise_Ticket_M + "', " +
+                ////                                 "'" + BusinessResources.User_Rights_M + "', " +
+                ////                                 "'" + BusinessResources.View_Leave_Application_M + "', " +
+                ////                                 "'" + BusinessResources.View_Tickets_M + "', " +
+                ////                                 "'" + BusinessResources.Working_Hours_Report_M +"')";
+                ////}
+                ////else if (UType == BusinessResources.USER_TYPE_PLANTHEAD || UType == BusinessResources.USER_TYPE_MANAGER)
+                ////{
+                ////    MenuListIn = " and MenuList IN('" + BusinessResources.Attendance_M + "', " +
+                ////                                 "'" + BusinessResources.Change_Password_M + "', " +
+                ////                                 "'" + BusinessResources.Client_Machine_M + "', " +
+                ////                                 "'" + BusinessResources.Comp_Off_Application_M + "', " +
+                ////                                 "'" + BusinessResources.View_Comp_Off_Application_M + "', " +
+                ////                                 "'" + BusinessResources.Documents_M + "', " +
+                ////                                 "'" + BusinessResources.Duration_Wise_Report_M + "', " +
+                ////                                 "'" + BusinessResources.Indvisual_User_Attendance_Report_M + "', " +
+                ////                                 "'" + BusinessResources.Indvisual_User_Comp_Off_Report_M + "', " +
+                ////                                 "'" + BusinessResources.Indvisual_User_Leave_Report_M + "', " +
+                ////                                 "'" + BusinessResources.Leave_Application_M + "', " +
+                ////                                 "'" + BusinessResources.Location_And_Department_Wise_Attendance_Report_M + "', " +
+                ////                                 "'" + BusinessResources.Location_And_Department_Wise_Comp_Off_Report_M + "', " +
+                ////                                 "'" + BusinessResources.Location_And_Department_Wise_Leave_Report_M + "', " +
+                ////                                 "'" + BusinessResources.Location_And_Department_Wise_Users_M + "', " +
+                ////                                 "'" + BusinessResources.Location_Wise_Department_M + "', " +
+                ////                                 "'" + BusinessResources.Manpower_Dashboard_M + "', " +
+                ////                                 "'" + BusinessResources.Manpower_Requisition_M + "', " +
+                ////                                 "'" + BusinessResources.Memo_M + "', " +
+                ////                                 "'" + BusinessResources.Raise_Ticket_M + "', " +
+                ////                                 "'" + BusinessResources.View_Leave_Application_M + "', " +
+                ////                                 "'" + BusinessResources.View_Tickets_M + "', " +
+                ////                                 "'" + BusinessResources.Working_Hours_Report_M + "')";
+                ////}
+                ////else if (UType == BusinessResources.USER_TYPE_SENIOROFFICER)
+                ////{
+                ////    MenuListIn = " and MenuList IN('" + BusinessResources.Attendance_M + "', " +
+                ////                                 "'" + BusinessResources.Change_Password_M + "', " +
+                ////                                 "'" + BusinessResources.Client_Machine_M + "', " +
+                ////                                 "'" + BusinessResources.Comp_Off_Application_M + "', " +
+                ////                                 "'" + BusinessResources.Documents_M + "', " +
+                ////                                 "'" + BusinessResources.Duration_Wise_Report_M + "', " +
+                ////                                 "'" + BusinessResources.Indvisual_User_Attendance_Report_M + "', " +
+                ////                                 "'" + BusinessResources.Indvisual_User_Comp_Off_Report_M + "', " +
+                ////                                 "'" + BusinessResources.Indvisual_User_Leave_Report_M + "', " +
+                ////                                 "'" + BusinessResources.Leave_Application_M + "', " +
+                ////                                 "'" + BusinessResources.Location_And_Department_Wise_Attendance_Report_M + "', " +
+                ////                                 "'" + BusinessResources.Location_And_Department_Wise_Comp_Off_Report_M + "', " +
+                ////                                 "'" + BusinessResources.Location_And_Department_Wise_Leave_Report_M + "', " +
+                ////                                 "'" + BusinessResources.Location_And_Department_Wise_Users_M + "', " +
+                ////                                 "'" + BusinessResources.Location_Wise_Department_M + "', " +
+                ////                                 "'" + BusinessResources.Manpower_Dashboard_M + "', " +
+                ////                                 "'" + BusinessResources.Manpower_Requisition_M + "', " +
+                ////                                 "'" + BusinessResources.Memo_M + "', " +
+                ////                                 "'" + BusinessResources.Raise_Ticket_M + "', " +
+                ////                                 "'" + BusinessResources.View_Leave_Application_M + "', " +
+                ////                                 "'" + BusinessResources.View_Tickets_M + "', " +
+                ////                                 "'" + BusinessResources.Working_Hours_Report_M + "')";
+                ////}
+                ////else if (UType == BusinessResources.USER_TYPE_OFFICER || UType == BusinessResources.USER_TYPE_INCHARGE || UType == BusinessResources.USER_TYPE_SUPERVISOR)
+                ////{
+                ////    MenuListIn = " and MenuList IN('" + BusinessResources.Change_Password_M + "', " +
+                ////                                 "'" + BusinessResources.Client_Machine_M + "', " +
+                ////                                 "'" + BusinessResources.Comp_Off_Application_M + "', " +
+                ////                                 "'" + BusinessResources.Documents_M + "', " +
+                ////                                 "'" + BusinessResources.Indvisual_User_Attendance_Report_M + "', " +
+                ////                                 "'" + BusinessResources.Indvisual_User_Comp_Off_Report_M + "', " +
+                ////                                 "'" + BusinessResources.Indvisual_User_Leave_Report_M + "', " +
+                ////                                 "'" + BusinessResources.Leave_Application_M + "', " +
+                ////                                 "'" + BusinessResources.Raise_Ticket_M + "', " +
+                ////                                 "'" + BusinessResources.View_Tickets_M + "')";
+                ////}
+                ////else
+                ////{
+                ////    MenuListIn = "";
+                ////}
+
+                //if (!string.IsNullOrEmpty(Convert.ToString(MenuListIn)))
                 //{
                 //    MenuListIn = "";
+                //    objRL.MenuIn = MenuListIn;
+                //    objRL.ColumnNameCM = "MenuList";
+                //    objRL.Fill_CheckListBox_Comman(clbMenu);
                 //}
-
-                if (!string.IsNullOrEmpty(Convert.ToString(MenuListIn)))
-                {
-                    MenuListIn = "";
-                    objRL.MenuIn = MenuListIn;
-                    objRL.ColumnNameCM = "MenuList";
-                    objRL.Fill_CheckListBox_Comman(clbMenu);
-                }
 
                 //objRL.Fill_Employees_CheckedListBox_By_UserType(clbEmployee, UType);
 
